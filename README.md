@@ -1,17 +1,13 @@
 # Docker
 Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.
 
-GitHub Repo: https://github.com/MohammedHousa/Docker
-
-YouTube Playlist: https://www.youtube.com/playlist?list=PLUy8DvyX4nDHS1GyzRwN8OhbC0JoJwqPA
-
 Topics:
-1. [How to Install Docker on Linux](https://github.com/MohammedHousa/Docker/blob/main/README.md#install-docker) 
-2. [How to work with Docker Images](https://github.com/MohammedHousa/Docker/blob/main/README.md#docker-images) 
-3. [How to work with Docker Containers](https://github.com/MohammedHousa/Docker/blob/main/README.md#docker-containers) 
-4. [How to work with Docker Storage](https://github.com/MohammedHousa/Docker/blob/main/README.md#docker-storage) 
-6. [How to work with Docker File](https://github.com/MohammedHousa/Docker/blob/main/README.md#docker-file) 
-7. [How to work with Docker Swarm](https://github.com/MohammedHousa/Docker/blob/main/README.md#docker-swarm) 
+1. [How to Install Docker on Linux]
+2. [How to work with Docker Images]
+3. [How to work with Docker Containers]
+4. [How to work with Docker Storage]
+6. [How to work with Docker File]
+7. [How to work with Docker Swarm] 
 
 
 
